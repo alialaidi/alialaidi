@@ -7,21 +7,19 @@
   </picture>
 </h1>
 
-[![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
-[![C Sharp](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
-[![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alialaidi)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/ef/core/)
+[![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
-[About](#about-me) · [Projects](#featured-projects) · [Skills](#technical-skills) · [Education](#education) · [Contact](#contact)
+[About](#about-me) · [Projects](#featured-projects) · [Technologies](#technologies-i-work-with) · [Education](#education) · [Contact](#contact)
 
 </div>
 
-<p align="center"><em>Software Engineering graduate building clean, secure web applications and REST APIs with .NET.</em></p>
+<p align="center"><em>Junior Full-Stack .NET Developer · Software Engineering graduate · Amman, Jordan</em></p>
 
 ## About me
 
-I'm a Junior Full-Stack .NET Developer and Software Engineering graduate from **Hashemite University**. I work with C#, ASP.NET Core, Entity Framework Core, and SQL Server to build web applications with clear architecture and secure access. I'm looking for an opportunity to contribute to real-world software and grow with a professional development team.
+I'm a **Junior Full-Stack .NET Developer** and Software Engineering graduate from **Hashemite University**. The technologies I currently highlight are TypeScript, Entity Framework Core, and Git. I'm looking for a junior developer opportunity where I can contribute to real-world software and grow with a professional development team.
 
 - 📍 Amman, Jordan — willing to relocate
 - 🎓 B.Sc. in Software Engineering, Hashemite University (2022–2026)
@@ -52,16 +50,11 @@ C++ console application for client management, deposits, withdrawals, transfers,
 
 Practice in data structures, algorithms, logical thinking, and optimization techniques.
 
-## Technical skills
+## Technologies I work with
 
-| Area | Skills |
-| --- | --- |
-| Languages | C#, T-SQL, C++, Java, JavaScript, TypeScript |
-| Backend | ASP.NET Core, Web API, Entity Framework Core, ADO.NET, LINQ, RESTful APIs, .NET Framework |
-| Frontend | HTML, CSS, JavaScript, TypeScript |
-| Architecture | Layered Architecture, Clean Architecture, SOLID, Dependency Injection, Repository Pattern, Unit of Work |
-| Database & Security | SQL Server, SSMS, Stored Procedures, Database Design, JWT, Role-Based and Policy-Based Authorization |
-| Tools | Git, GitHub, Visual Studio, Swagger |
+- **TypeScript (TS)**
+- **Entity Framework Core (EF Core)**
+- **Git**
 
 ## Education
 
