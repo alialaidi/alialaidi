@@ -2,14 +2,19 @@
 
 <h1>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=58D5C5&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ali+Rami+Al-Aidi;Junior+Full-Stack+.NET+Developer">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=167D72&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ali+Rami+Al-Aidi;Junior+Full-Stack+.NET+Developer" alt="Hi, I'm Ali Rami Al-Aidi — Junior Full-Stack .NET Developer">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=58D5C5&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ali+Rami+Al-Aidi;Full-Stack+.NET+Developer">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=167D72&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ali+Rami+Al-Aidi;Full-Stack+.NET+Developer" alt="Hi, I'm Ali Rami Al-Aidi — Full-Stack .NET Developer">
   </picture>
 </h1>
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/ef/core/)
 [![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![C Sharp](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
+[![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alialaidi)
 
 [About](#about-me) · [Projects](#featured-projects) · [Technologies](#technologies-i-work-with) · [Education](#education) · [Contact](#contact)
 
@@ -50,11 +55,16 @@ C++ console application for client management, deposits, withdrawals, transfers,
 
 Practice in data structures, algorithms, logical thinking, and optimization techniques.
 
-## Technologies I work with
+## Technical skills
 
-- **TypeScript (TS)**
-- **Entity Framework Core (EF Core)**
-- **Git**
+| Area | Skills |
+| --- | --- |
+| Languages | C#, T-SQL, C++, Java, JavaScript, TypeScript (TS) |
+| Backend | ASP.NET Core, Web API, Entity Framework Core (EF Core), ADO.NET, LINQ, RESTful APIs, .NET Framework |
+| Frontend | HTML, CSS, JavaScript, TypeScript (TS) |
+| Architecture | Layered Architecture, Clean Architecture, SOLID, Dependency Injection, Repository Pattern, Unit of Work |
+| Database & Security | SQL Server, SSMS, Stored Procedures, Database Design, JWT, Role-Based and Policy-Based Authorization |
+| Tools | Git, GitHub, Visual Studio, Swagger |
 
 ## Education
 
