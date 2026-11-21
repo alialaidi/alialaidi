@@ -20,11 +20,11 @@
 
 </div>
 
-<p align="center"><em>Junior Full-Stack .NET Developer · Software Engineering graduate · Amman, Jordan</em></p>
+<p align="center"><em> Full-Stack .NET Developer · Software Engineering graduate · Amman, Jordan</em></p>
 
 ## About me
 
-I'm a **Junior Full-Stack .NET Developer** and Software Engineering graduate from **Hashemite University**. The technologies I currently highlight are TypeScript, Entity Framework Core, and Git. I'm looking for a junior developer opportunity where I can contribute to real-world software and grow with a professional development team.
+I'm a **Full-Stack .NET Developer** and Software Engineering graduate from **Hashemite University**. The technologies I currently highlight are TypeScript, Entity Framework Core, and Git. I'm looking for a junior developer opportunity where I can contribute to real-world software and grow with a professional development team.
 
 - 📍 Amman, Jordan — willing to relocate
 - 🎓 B.Sc. in Software Engineering, Hashemite University (2022–2026)
